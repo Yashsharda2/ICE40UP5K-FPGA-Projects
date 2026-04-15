@@ -1,5 +1,5 @@
 # iCE40UP5K FPGA Projects
-This repo contains al my RTL designs implemented on the Muse Lab iCESugar.
+This repo contains all my RTL designs implemented on the Muse Lab iCESugar.
 
 | Project | Description |
 | :--- | :--- |
