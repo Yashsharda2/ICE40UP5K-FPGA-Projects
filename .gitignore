@@ -1,0 +1,8 @@
+common/
+led/
+io.pcf
+Makefile
+*.bin
+*.asc
+*.json
+*.log
